@@ -1,0 +1,12 @@
+git clone "repo address"  ----> 
+git checkout -b branch_name   ----> To create a new branch in Local
+git checkout branch_name --> Switch to new branch
+git fetch origin ---> Updte the locale from main_repo
+git branch -r -->List all branches
+git branch --> to check branch in locale
+git add .
+git status --> chk the stage files
+git commit -m "comit msg"
+git push
+git pull origin branch_name ---> Get the updates 
+
