@@ -7,3 +7,6 @@ Syncron
 Screenshots
 POM
 @findby
+Listiners 
+CI/CD
+Pipeline
