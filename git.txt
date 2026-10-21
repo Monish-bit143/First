@@ -9,5 +9,5 @@ git status --> chk the stage files
 git commit -m "comit msg"
 git push
 git pull origin branch_name ---> Get the updates 
-
+git pull origin ---> get all updates
 code .\file name with .extension ---> Edit in VS code
